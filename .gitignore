@@ -1,0 +1,12 @@
+# 编译产物（exe 通过 GitHub Releases 发布，不入库）
+*.exe
+
+# 备份文件
+*_backup.*
+
+# Go 测试/覆盖率产物
+*.test
+*.out
+
+# 临时文件
+tmp/
