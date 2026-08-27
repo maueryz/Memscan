@@ -15,10 +15,10 @@
 
 ```bash
 # 交互模式（也可直接双击 Memscan_CLI.exe）
-Memscan.exe cli
+Memscan_CLI.exe cli
 
 # 一次性扫描
-Memscan.exe cli <关键词> [选项]
+Memscan_CLI.exe cli <关键词> [选项]
 
 # 常用选项：-a 全量编码 | -net 仅外联进程 | -list 紧凑列表 | -max N 输出上限 | -h 帮助
 ```
